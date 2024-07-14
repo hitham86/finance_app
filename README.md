@@ -1,3 +1,7 @@
-
-
- I crafted a spine-chilling horror experience using C# and Unity. In this project, I conceptualized and implemented terrifying gameplay elements, including eerie environments, complex puzzles, and menacing adversaries. Leveraging my expertise in game design and programming, I created an immersive and suspenseful atmosphere that captivated players and kept them engaged. This project not only honed my technical skills in C# and Unity but also demonstrated my ability to create emotionally impactful and visually compelling game experiences.
+Real-time Stock Data: Get up-to-date stock prices and market information.
+Portfolio Management: Easily manage and monitor your stock portfolio in one place.
+Custom Watchlists: Create personalized watchlists to track specific stocks of interest.
+Historical Data: View historical stock prices to analyze trends over time.
+User Authentication: Securely log in and manage your account information.
+Real-time Stock Data: Get up-to-date stock prices and market information. Portfolio Management: Easily manage and monitor your stock portfolio in one place. Custom Watchlists: Create personalized watchlists to track specific stocks of interest. Historical Data: View historical stock prices to analyze trends over time. User Authentication: Securely log in and manage your account information. 
+Skills: Python (Programming Language) · SQL
