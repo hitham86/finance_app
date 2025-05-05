@@ -1,6 +1,7 @@
 💰 Finance Tracker CLI
 A command-line application to manage your personal stock and bond investments, visualize profitability, and keep a log of your financial activities. Built with Python and SQLite for fast, secure, and offline tracking.
 
+
 📦 Features
 🔐 Sign in / Create account
 
@@ -14,12 +15,16 @@ A command-line application to manage your personal stock and bond investments, v
 
 🧠 Smart update flow for existing assets
 
+
+
 🛠 Requirements
 Python	Supported
 3.8	✅
 3.9	✅
 3.10	✅
 3.11	✅
+
+
 
 Install dependencies using:
 
@@ -30,12 +35,16 @@ pip install -r requirements.txt
 ⚙️ Installation
 Clone the repo
 
+
+
 bash
 Copy
 Edit
 git clone https://github.com/yourusername/finance-tracker-cli.git
 cd finance-tracker-cli
 Set up environment
+
+
 
 bash
 Copy
@@ -44,6 +53,8 @@ python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 Create a .env file
+
+
 
 env
 Copy
@@ -69,6 +80,9 @@ Edit
 [2] SHOW ACCOUNT
 You can:
 
+
+
+
 Add/update stock with ticker, price, date, and quantity
 
 Delete stock entries
@@ -76,6 +90,8 @@ Delete stock entries
 View profitability via visualize.py
 
 Track errors in error.log
+
+
 
 🧠 Example Workflow
 text
@@ -86,11 +102,17 @@ Edit
 🔒 Enter password
 ✅ Login success...
 
+
+
+
 > ADD STOCK
 ✔ Ticker: AAPL
 ✔ Price: 187.23
 ✔ Date: 05/01/2025
 ✔ Quantity: 10
+
+
+
 
 > SHOW ACCOUNT
 +--------+------------+-----------+----------+
@@ -111,9 +133,14 @@ print(df)
 🧾 Logging
 Errors and exceptions are automatically logged to error.log:
 
+
+
 text
 Copy
 Edit
 Unhandled error in on_message: (<error details>)
+
+
+
 🧤 Credits
 Created by Hitham Hauter.
